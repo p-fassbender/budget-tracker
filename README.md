@@ -1,5 +1,11 @@
 # Budget Tracker Starter Code
 
+## TODO
+* indexedDB // done
+* service worker
+* manifest.json
+* deploy to heroku with mongoDB atlas
+
 ## USER STORY
 AS AN avid traveler
 I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
