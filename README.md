@@ -3,7 +3,7 @@
 ## TODO
 * indexedDB // done
 * service worker // done
-* manifest.json
+* manifest.json // done
 * deploy to heroku with mongoDB atlas
 
 ## USER STORY
